@@ -4,34 +4,36 @@
 
 int main()
 {
-    long long x,y,z;
-    long long sum;
-    scanf("%lld %lld %lld %lld", &x, &y, &z, &sum);
-    if((x+y-z) == sum){
-        printf("YES");
-    }
-    else if ((x+y*z) == sum)
-    {
-         printf("YES");
-    }
-    else if ((x-y+z) == sum)
-    {
-         printf("YES");
-    }
-    else if ((x-y*z) == sum)
-    {
-         printf("YES");
-    }
-    else if ((x*y-z) == sum)
-    {
-         printf("YES");
-    }
-    else if ((x*y+z) == sum)
-    {
-         printf("YES");
-    }
-    else{
-         printf("NO");
-    }
-    return 0;
+     long long x, y, z;
+     long long sum;
+     scanf("%lld %lld %lld %lld", &x, &y, &z, &sum);
+     if ((x + y - z) == sum)
+     {
+          printf("YES");
+     }
+     else if ((x + y * z) == sum)
+     {
+          printf("YES");
+     }
+     else if ((x - y + z) == sum)
+     {
+          printf("YES");
+     }
+     else if ((x - y * z) == sum)
+     {
+          printf("YES");
+     }
+     else if ((x * y - z) == sum)
+     {
+          printf("YES");
+     }
+     else if ((x * y + z) == sum)
+     {
+          printf("YES");
+     }
+     else
+     {
+          printf("NO");
+     }
+     return 0;
 }
