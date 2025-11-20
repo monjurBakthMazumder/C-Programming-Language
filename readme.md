@@ -1,4 +1,4 @@
-# 📘 C Programming Language – Complete Learning Repository
+# 📘 C Programming Language
 
 C is one of the most powerful and foundational programming languages ever created. It provides low-level control, efficient memory management, and a deep understanding of how computers actually work. Learning C helps you build a strong base for mastering advanced languages, data structures, algorithms, operating systems, embedded systems, and more.
 
