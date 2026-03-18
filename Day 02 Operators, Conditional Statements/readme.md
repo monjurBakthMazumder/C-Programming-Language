@@ -1,4 +1,3 @@
-
 # Programming in C – Operators and Conditional Statements
 
 This repository contains beginner-friendly C programs demonstrating the use of **arithmetic**, **relational**, and **logical operators**, as well as **conditional statements** such as `if`, `else if`, `else`, and **nested if-else**.  
@@ -48,7 +47,7 @@ int main() {
 
     return 0;
 }
-````
+```
 
 ---
 
@@ -142,16 +141,16 @@ int main() {
 
     if (marks >= 80) {
         printf("Grade: A+\n");
-    } 
+    }
     else if (marks >= 70) {
         printf("Grade: A\n");
-    } 
+    }
     else if (marks >= 60) {
         printf("Grade: B\n");
-    } 
+    }
     else if (marks >= 50) {
         printf("Grade: C\n");
-    } 
+    }
     else {
         printf("Grade: F\n");
     }
@@ -180,13 +179,13 @@ int main() {
 
         if (marks >= 80) {
             printf("Grade: A+\n");
-        } 
+        }
         else if (marks >= 70) {
             printf("Grade: A\n");
-        } 
+        }
         else if (marks >= 60) {
             printf("Grade: B\n");
-        } 
+        }
         else {
             printf("Grade: C\n");
         }
@@ -207,12 +206,14 @@ int main() {
    ```bash
    git clone https://github.com/monjurBakthMazumder/c-operators-and-conditionals.git
    ```
+
 2. Open a terminal in the project folder.
 3. Compile any program using GCC:
 
    ```bash
    gcc filename.c -o output
    ```
+
 4. Run the program:
 
    ```bash
@@ -223,26 +224,20 @@ int main() {
 
 ## 📚 **Learning Outcomes**
 
-* Understand how **arithmetic, relational, and logical operators** work in C.
-* Learn to make **decisions using if–else** statements.
-* Build logic using **nested conditions**.
-* Gain confidence writing beginner-level C programs.
+- Understand how **arithmetic, relational, and logical operators** work in C.
+- Learn to make **decisions using if–else** statements.
+- Build logic using **nested conditions**.
+- Gain confidence writing beginner-level C programs.
 
 ---
 
 # Author
 
-**Md Monjur Bakth Mazumder**  
-**Software Engineer | Lead Frontend Developer**
+**Engr. Md Monjur Bakth Mazumder**
 
-Software Engineer & Lead Frontend Developer at [Qrinux](https://www.qrinux.com/)  
-Software Engineer & Lead Frontend Developer at [Boom Box E-Solutions](https://www.boomboxesolutions.com/)  
+🎓 Diploma in Computer Technology — [Moulvibazar Polytechnic Institute](https://mpi.moulvibazar.gov.bd/)  
+🎓 BSc in CSE (Running) — [Sylhet International University](https://siu.edu.bd/)
 
-📧 [Email me](mailto:md.monjurmbm2001@gmail.com)  
-🌐 [Portfolio](https://mdmonjurbakthmazumder.netlify.app)
-
-Passionate about building clean, maintainable, and scalable applications
+📧 Email: monjurmbm404@gmail.com
 
 ### ⭐ If you find this helpful, don’t forget to **star** the repository!
-
-

@@ -248,7 +248,6 @@ int 2ndStudent = 25;   // ❌ invalid
 ## ⚙️ How to Run Your Code (Quick Steps)
 
 1. **Install GCC compiler**
-
    - Linux/macOS: already installed or use `sudo apt install gcc`
    - Windows: install [Code::Blocks](https://www.codeblocks.org/)
 
@@ -267,15 +266,11 @@ int 2ndStudent = 25;   // ❌ invalid
 
 # Author
 
-**Md Monjur Bakth Mazumder**  
-**Software Engineer | Lead Frontend Developer**
+**Engr. Md Monjur Bakth Mazumder**
 
-Software Engineer & Lead Frontend Developer at [Qrinux](https://www.qrinux.com/)  
-Software Engineer & Lead Frontend Developer at [Boom Box E-Solutions](https://www.boomboxesolutions.com/)
+🎓 Diploma in Computer Technology — [Moulvibazar Polytechnic Institute](https://mpi.moulvibazar.gov.bd/)  
+🎓 BSc in CSE (Running) — [Sylhet International University](https://siu.edu.bd/)
 
-📧 [Email me](mailto:md.monjurmbm2001@gmail.com)  
-🌐 [Portfolio](https://mdmonjurbakthmazumder.netlify.app)
-
-Passionate about building clean, maintainable, and scalable applications
+📧 Email: monjurmbm404@gmail.com
 
 ### ⭐ If you find this helpful, don’t forget to **star** the repository!
