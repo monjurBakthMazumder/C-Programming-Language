@@ -316,12 +316,13 @@ Replace the filename with the desired program (e.g., `array_sort_nested_loop.c`)
 
 ---
 
+
 # Author
 
 **Engr. Md Monjur Bakth Mazumder**
 
-🎓 Diploma in Computer Technology — [Moulvibazar Polytechnic Institute](https://mpi.moulvibazar.gov.bd/)  
-🎓 BSc in CSE (Running) — [Sylhet International University](https://siu.edu.bd/)
+🎓 Diploma in Computer Science and Technology — [Moulvibazar Polytechnic Institute](https://mpi.moulvibazar.gov.bd/)  
+🎓 BSc in Computer Science & Engineering (CSE) (Ongoing) — [Sylhet International University](https://siu.edu.bd/)
 
 📧 Email: monjurmbm404@gmail.com
 
