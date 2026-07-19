@@ -77,6 +77,11 @@ Whether you're preparing for university courses, coding contests, or interviews,
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
 
 # Author
 
