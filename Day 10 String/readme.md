@@ -256,7 +256,8 @@ gcc string_length_strlen.c -o string_length
 ---
 
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 

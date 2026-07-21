@@ -274,7 +274,8 @@ Replace the filename with other programs like `sum_return_with_args.c` or `math_
 
 
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 

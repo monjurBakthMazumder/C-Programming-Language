@@ -83,7 +83,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 

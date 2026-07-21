@@ -119,7 +119,8 @@ for (int i = 1; i <= 5; i++) {
 
 
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 

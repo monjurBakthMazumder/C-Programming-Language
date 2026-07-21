@@ -224,7 +224,8 @@ gcc filename.c -o app
 
 
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 

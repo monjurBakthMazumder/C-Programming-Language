@@ -317,7 +317,8 @@ Replace the filename with the desired program (e.g., `array_sort_nested_loop.c`)
 ---
 
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 

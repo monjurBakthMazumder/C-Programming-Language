@@ -353,7 +353,8 @@ gcc delete_element.c -o delete_element
 ---
 
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 

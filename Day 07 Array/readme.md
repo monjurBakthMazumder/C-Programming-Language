@@ -211,7 +211,8 @@ gcc array_input_and_output.c -o array_input_and_output
 ---
 
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 

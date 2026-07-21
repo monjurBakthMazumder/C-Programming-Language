@@ -229,7 +229,8 @@ else printf("Not Secondary Diagonal Matrix");
 
 
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 

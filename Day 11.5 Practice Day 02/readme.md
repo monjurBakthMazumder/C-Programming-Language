@@ -127,7 +127,8 @@ gcc frequency_counter.c -o frequency_counter
 
 
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 

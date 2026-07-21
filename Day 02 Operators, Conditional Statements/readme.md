@@ -232,7 +232,8 @@ int main() {
 ---
 
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 

@@ -311,7 +311,8 @@ Replace the filename to run other programs like `string_copy_builtin.c` or `stri
 ---
 
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 

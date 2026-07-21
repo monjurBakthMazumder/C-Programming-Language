@@ -265,7 +265,8 @@ int 2ndStudent = 25;   // ❌ invalid
 ---
 
 
-# 👨‍💻 Author
+
+# Author
 
 ## **Engr. Md Monjur Bakth Mazumder**
 
